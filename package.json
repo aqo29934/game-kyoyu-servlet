@@ -1,0 +1,23 @@
+{
+  "name": "game-kyoyu-servlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqo29934/game-kyoyu-servlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqo29934/game-kyoyu-servlet/issues"
+  },
+  "homepage": "https://github.com/aqo29934/game-kyoyu-servlet#readme"
+
+  "scripts" : {
+     "start": "node index.js"
+  }
+}

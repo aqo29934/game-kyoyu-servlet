@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aqo29934/game-kyoyu-servlet/issues"
   },
-  "homepage": "https://github.com/aqo29934/game-kyoyu-servlet#readme"
+  "homepage": "https://github.com/aqo29934/game-kyoyu-servlet#readme",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
 }
